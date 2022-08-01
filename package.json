@@ -1,0 +1,19 @@
+{
+  "name": "1-node-farm",
+  "version": "1.0.0",
+  "description": "basic api using node and json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldcss/basic-api.git"
+  },
+  "author": "lucas daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ldcss/basic-api/issues"
+  },
+  "homepage": "https://github.com/ldcss/basic-api#readme"
+}
